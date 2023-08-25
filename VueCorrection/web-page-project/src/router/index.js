@@ -8,16 +8,25 @@ const routes = [
     path: "/",
     name: "home",
     component: LandingView,
+    meta: {
+      title: DailyMildo
+    }
   },
   {
     path: "/Policy",
     name: "policy",
     component: PolicyView,
+    meta: {
+      title: DailyMildo
+    }
   },
   {
     path: "/Service",
     name: "service",
     component: ServiceView,
+    meta: {
+      title: DailyMildo
+    }
   },
 ];
 
