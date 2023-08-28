@@ -9,7 +9,7 @@ const routes = [
     name: "home",
     component: LandingView,
     meta: {
-      title: DailyMildo
+      title: 'DailyMildo'
     }
   },
   {
@@ -17,7 +17,7 @@ const routes = [
     name: "policy",
     component: PolicyView,
     meta: {
-      title: DailyMildo
+      title: 'DailyMildo'
     }
   },
   {
@@ -25,7 +25,7 @@ const routes = [
     name: "service",
     component: ServiceView,
     meta: {
-      title: DailyMildo
+      title: 'DailyMildo'
     }
   },
 ];
