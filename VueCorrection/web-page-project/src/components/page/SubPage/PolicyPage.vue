@@ -420,6 +420,12 @@
             <div>다. 회사가 변경 내용의 고지를 통해 안내한 변경 적용일까지 회원이 명시적으로 거부 의사를 표시하지 않는 경우, 변경 내용에 동의한 것으로 간주합니다.</div>
             <div>라. 또한 당사는 개인정보의 수집 및 활용, 제3자 제공 등 정보통신망 이용촉진 및 정보보호 등에 관한 법률 등 관련 법령에 따라 회원의 별도 동의가 필요한 사항과 관련된 내용이 추가, 변경되는 경우에는 관련 법령에 따른 회원의 별도 동의를 받습니다.</div>
         </article>
+
+        <article>
+            <div>- Subject to the User's consent to allow access the phone contacts in the order to synchronize and contact</div>
+            <div> - We store your up-to-date contacts in order to add friends and invite them to the project/process as soon as one of your contacts signs up for GongCheck and to properly display names in the contact list. We only need the number and name (first and last) for this to work and store no other data about your contacts.</div>
+            <div>- Can always stop syncing contacts or delete them from our servers in Settings > Privacy & Security > Data Settings.</div>
+        </article>
     </section>
     </body>
   </template>
